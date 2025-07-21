@@ -7,7 +7,7 @@ I'm a passionate and curious aspiring developer, currently building real-world p
 
 ## 📚 What I’ve Learned So Far:
 - ✅ HTML, CSS, JavaScript  
-- ✅ PHP & Laravel (POS system and small projects)  
+- ✅ PHP & Laravel 
 - ✅ Vue.js, React (self-study)  
 - ✅ MySQL Database  
 - ✅ Tailwind CSS, Bootstrap  
