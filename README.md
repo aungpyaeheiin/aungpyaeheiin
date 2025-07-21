@@ -4,23 +4,32 @@ I'm a passionate and curious aspiring developer, currently focused on learning m
 
 ---
 
-### 💼 What I’ve Learned So Far:
-- ✅ HTML, CSS, JavaScript
-- ✅ PHP & Laravel (POS system and small projects)
-- ✅ Vue.js, React (self-study)
-- ✅ MySQL Database
-- ✅ Tailwind CSS, Bootstrap
-- ✅ A+ Certificate (IT hardware/networking basics)
+## 📚 What I’ve Learned So Far:
+- ✅ HTML, CSS, JavaScript  
+- ✅ PHP & Laravel (POS system and small projects)  
+- ✅ Vue.js, React (self-study)  
+- ✅ MySQL Database  
+- ✅ Tailwind CSS, Bootstrap  
+---
+
+## 🎯 Current Focus:
+- 🔁 Learning and practicing **React**, **API integration**, and **Tailwind CSS**  
+- 🔧 Preparing to build more **full-stack projects** using Vue, Laravel, and React
 
 ---
 
-### 📘 Current Focus:
-- Learning and practicing **React**, **API integration**, and **Tailwind CSS**
-- Preparing to build **more full-stack projects** using Vue, Laravel, and React
+## 🛠️ Featured Projects:
 
 ---
 
-## 🚀 Languages and Tools:
+## 📊 GitHub Stats
+
+![Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungpyaeheiin&show_icons=true&theme=default&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungpyaeheiin&layout=compact&hide_border=true&theme=default)
+
+---
+
+## 🧰 Languages and Tools:
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -37,14 +46,14 @@ I'm a passionate and curious aspiring developer, currently focused on learning m
 
 ---
 
-### 📫 Connect with me:
-- Gmail: **aunggpyaehein@gmail.com**
-- LinkedIn: 
-- Portfolio : https://illustrious-biscotti-822736.netlify.app/
+## 📫 Connect with Me
 
----
-
-### 🛠 Upcoming Goals:
-- Build a full-stack blog using Vue + Laravel
-- Deploy more projects on Netlify & GitHub Pages
-- Learn GitHub Actions, CI/CD basics
+<p>
+  <a href="mailto:aunggpyaehein@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <!-- Uncomment this if you make a LinkedIn -->
+  <!-- <a href="https://www.linkedin.com/in/aung-pyae-hein>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a> -->
+</p>
