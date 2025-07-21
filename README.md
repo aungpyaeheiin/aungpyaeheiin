@@ -1,19 +1,24 @@
-## Hi there 👋
+## 👋 Hi there! I'm Aung Pyae Hein
 
-<!--
-**aungpyaeheiin/aungpyaeheiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate and curious aspiring developer, currently focused on learning modern web development technologies and building real-world projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I’ve Learned So Far:
+- ✅ HTML, CSS, JavaScript
+- ✅ PHP & Laravel (POS system and small projects)
+- ✅ Vue.js, React (self-study)
+- ✅ MySQL Database
+- ✅ Tailwind CSS, Bootstrap
+- ✅ A+ Certificate (IT hardware/networking basics)
+
+---
+
+### 📘 Current Focus:
+- Learning and practicing **React**, **API integration**, and **Tailwind CSS**
+- Preparing to build **more full-stack projects** using Vue, Laravel, and React
+
+---
 
 ## 🚀 Languages and Tools:
 
@@ -29,3 +34,17 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
 </p>
+
+---
+
+### 📫 Connect with me:
+- Gmail: **aunggpyaehein@gmail.com**
+- LinkedIn: 
+- Portfolio : https://illustrious-biscotti-822736.netlify.app/
+
+---
+
+### 🛠 Upcoming Goals:
+- Build a full-stack blog using Vue + Laravel
+- Deploy more projects on Netlify & GitHub Pages
+- Learn GitHub Actions, CI/CD basics
