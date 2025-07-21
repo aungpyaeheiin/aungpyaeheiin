@@ -1,4 +1,5 @@
-## 👋 Hi there! I'm Aung Pyae Hein
+## Hi there 👋  
+![Visitor Badge](https://komarev.com/ghpvc/?username=aungpyaeheiin&label=Profile+views&color=0e75b6&style=flat)
 
 I'm a passionate and curious aspiring developer, currently building real-world projects and learning modern web development technologies.
 
@@ -28,7 +29,6 @@ I'm a passionate and curious aspiring developer, currently building real-world p
 
 ![Aung's GitHub stats](https://github-readme-stats.vercel.app/api?username=aungpyaeheiin&show_icons=true&theme=dark&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aungpyaeheiin&layout=compact&theme=dark&hide_border=true)  
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=aungpyaeheiin.aungpyaeheiin)
 
 ---
 
