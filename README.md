@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Aung Pyae Hein
 
-I'm a passionate and curious aspiring developer from Myanmar 🇲🇲, currently building real-world projects and learning modern web development technologies.
+I'm a passionate and curious aspiring developer, currently building real-world projects and learning modern web development technologies.
 
 ---
 
