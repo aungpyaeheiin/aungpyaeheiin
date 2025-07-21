@@ -10,7 +10,6 @@ I'm a passionate and curious aspiring developer from Myanmar 🇲🇲, currently
 - ✅ Vue.js, React (self-study)  
 - ✅ MySQL Database  
 - ✅ Tailwind CSS, Bootstrap  
-- ✅ A+ Certificate (IT hardware/networking basics)
 
 ---
 
