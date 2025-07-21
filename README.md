@@ -62,7 +62,7 @@ A clean and functional calculator built with Vue.js, showcasing a basic understa
   <a href="mailto:aunggpyaehein@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
   </a>
-  <a href="https://your-portfolio-link.netlify.app" target="_blank">
+  <a href="https://illustrious-biscotti-822736.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
 </p>
