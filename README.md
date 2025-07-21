@@ -1,4 +1,4 @@
-## Hi there 👋  
+<img src="https://textanim.com/_gif/n/e/o/neon_1b2321d2e2389c5949e98269b87fbd51.gif" alt="Hi there 👋" width="200"/>
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aungpyaeheiin&label=Profile+views&color=0e75b6&style=flat)
 
 I'm a passionate and curious aspiring developer, currently building real-world projects and learning modern web development technologies.
