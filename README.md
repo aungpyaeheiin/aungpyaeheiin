@@ -1,4 +1,5 @@
-<img src="https://your-neon-gif-url.gif" alt="Neon Text" width="300" />
+<img src="https://textanim.com/_gif/n/e/o/neon_1b2321d2e2389c5949e98269b87fbd51.gif" alt="Hi there 👋" width="200"/>
+
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=aungpyaeheiin&label=Profile+views&color=0e75b6&style=flat)
 
