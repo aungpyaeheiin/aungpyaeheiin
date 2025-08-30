@@ -12,7 +12,7 @@ I'm a passionate and curious aspiring developer, currently building real-world p
 
 - 🔭 I’m focused on becoming a skilled full-stack developer.
 - 🌱 I'm currently learning **React** and **API integration** to build more dynamic applications.
-- ⚡ 
+  
 ---
 
 ## **My Tech Stack**
