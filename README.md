@@ -57,7 +57,7 @@ A production-relevant project where I designed and implemented the **Laravel API
 * Ensuring API reliability using **Postman Collections** for functional testing.
 
 > **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
-  <a href="[(https://aung-pyae-hein-portfolio-47m33a3lk-aunggpyaehein-5931s-projects.vercel.app/)]" target="_blank">
+  <a href="https://aung-pyae-hein-portfolio-47m33a3lk-aunggpyaehein-5931s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
 ---
@@ -79,7 +79,7 @@ I am eager to discuss new opportunities. Reach out via email!
   <a href="mailto:aunggpyaehein@gmail.com">
     <img src="https://img.shields.io/badge/Email-aunggpyaehein@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge"/>
   </a>
-  <a href="[(https://aung-pyae-hein-portfolio-47m33a3lk-aunggpyaehein-5931s-projects.vercel.app/)]" target="_blank">
+  <a href="https://aung-pyae-hein-portfolio-47m33a3lk-aunggpyaehein-5931s-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
 </p>
