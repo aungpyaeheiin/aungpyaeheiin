@@ -56,7 +56,7 @@ A production-relevant project where I designed and implemented the **Laravel API
 * Creating **CRUD API endpoints** with JSON responses for consumption by the React front-end.
 * Ensuring API reliability using **Postman Collections** for functional testing.
 
-> **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on the CNI and Merry Marry platforms.
+> **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
 
 ---
 
