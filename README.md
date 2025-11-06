@@ -52,7 +52,7 @@ I am proficient with the following technologies, validated through professional 
 
 
 > **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
-  <a href="https://aung-pyae-hein-portfolio.netlify.app" target="_blank">
+  <a href="https://aungpyaehein-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
 ---
