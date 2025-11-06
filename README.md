@@ -50,14 +50,9 @@ I am proficient with the following technologies, validated through professional 
 
 ## 🌟 Featured Project
 
-### **[Warehouse Inventory API](https://github.com/aungpyaeheiin/example-repo-link)** (Laravel Backend)
-A production-relevant project where I designed and implemented the **Laravel API** for a core Inventory Management module. I was responsible for:
-* Defining **database migrations** and **Eloquent models** for products and stock.
-* Creating **CRUD API endpoints** with JSON responses for consumption by the React front-end.
-* Ensuring API reliability using **Postman Collections** for functional testing.
 
 > **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
-  <a href="https://aung-pyae-hein-portfolio-47m33a3lk-aunggpyaehein-5931s-projects.vercel.app/" target="_blank">
+  <a href="https://aung-pyae-hein-portfolio.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
   </a>
 ---
