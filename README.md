@@ -50,10 +50,7 @@ I am proficient with the following technologies, validated through professional 
 
 ## 🌟 Featured Project
 
-
-> **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-0ea5e9?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio badge"/>
----
+ **Note:** Please see my full portfolio for detailed descriptions of all professional projects, including my work on many platforms. 
 
 ## 📈 GitHub Stats
 
